@@ -1,0 +1,4 @@
+Django==4.0.5
+djangorestframework==3.14.0
+drf_spectacular==0.26.2
+nltk==3.8.1
