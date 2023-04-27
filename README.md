@@ -1,8 +1,8 @@
-#DRF-nltk
+DRF-nltk
 
 DRF API to mix noun phrases.
 
-#How to start this project
+How to start this project
 
 1.	Clone the repository: git clone https://github.com/axlrose023/API-nltk.git
 2.	Navigate to the project directory: cd testAPInltk
